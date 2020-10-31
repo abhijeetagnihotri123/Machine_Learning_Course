@@ -1,0 +1,6 @@
+ioctl
+mprotect
+mprotect
+futex
+futex
+rt_sigreturn
